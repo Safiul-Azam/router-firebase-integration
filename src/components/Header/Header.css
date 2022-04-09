@@ -1,9 +1,14 @@
 .header nav a{
     color: black;
-    margin-right: 10px;
+    margin: 20px;
     text-decoration: none;
     font-size: 18px;
 }
 .header nav a:hover{
     color: goldenrod;
+}
+.header{
+    background-color: greenyellow;
+    padding: 10px;
+    margin-top: 20px;
 }
